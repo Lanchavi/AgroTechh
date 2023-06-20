@@ -30,14 +30,13 @@
 ## Brief on Programming Module
 
 **What programming language will be used?**
-
-Python
-Javascript
+- Python
+- Javascript
 
 **What is the technology used for the product?** 
 
-Frontend : HTML, CSS, JavaScript, BootStrap
-Backend: Firebase
-Machine Learning, Keras, Tensorflow
-CNN ()
-NumPy , Pandas , seaborn, sklearn
+- Frontend : HTML, CSS, JavaScript, BootStrap
+- Backend: Firebase
+- Machine Learning, Keras, Tensorflow
+- NumPy , Pandas , seaborn, sklearn
+- CNN
