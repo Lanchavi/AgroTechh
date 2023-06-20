@@ -1,11 +1,11 @@
-# AgroTechh KRIषी MANदिर
+# KRIषी MANदिर
 ![Arivaci   Co  (1)](https://github.com/Lanchavi/AgroTechh/assets/86043520/eb8ca379-e9ef-4ee1-b5f3-053ccf9de8a4)
 
 ## Introduction
 
-- Optimization of agricultural practices for enhanced crop yield is considered to be an important phenomenon for the countries like India. In order to strengthen the economy and also to meet the food demand for the exponentially growing population, optimizing agricultural practices has become a necessity.
+- Optimization of agricultural practices for enhanced crop yield is considered an important phenomenon for countries like India. In order to strengthen the economy and also to meet the food demand for the exponentially growing population, optimizing agricultural practices has become a necessity.
 - Economic loss due to the lack of information on crop yield productivity is another primary concern in the country. These hurdles can be overcome by the implementation of advanced technology in agriculture. 
-- At present India stands second globally in terms of agricultural-based products. The success rates of agriculture practices are majorly influenced by certain factors namely soil fertility, climatic conditions, weather forecast, temperature, water level with the rainfall measures, irrigation condition, fertilizers availability, pesticide used, controlling of weed population, process of cultivation, harvesting methods employed and economic and political scenarios 
+- At present, India stands second globally in terms of agricultural-based products. The success rates of agriculture practices are majorly influenced by certain factors namely soil fertility, climatic conditions, weather forecast, temperature, water level with the rainfall measures, irrigation condition, fertilizers availability, pesticide used, controlling of weed population, process of cultivation, harvesting methods employed and economic and political scenarios 
 
 
 ##  Features
@@ -30,10 +30,12 @@
 ## Brief on Programming Module
 
 **What programming language will be used?**
+
 Python
 Javascript
 
 **What is the technology used for the product?** 
+
 Frontend : HTML, CSS, JavaScript, BootStrap
 Backend: Firebase
 Machine Learning, Keras, Tensorflow
